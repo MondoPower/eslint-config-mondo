@@ -8,17 +8,17 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/MondoPower/mondo-eslint-config.git"
+      "url": "git+https://github.com/MondoPower/eslint-config-mondo.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/MondoPower/mondo-eslint-config/issues"
+      "url": "https://github.com/MondoPower/eslint-config-mondo/issues"
     },
     "publishConfig": {
       "registry":"https://npm.pkg.github.com"
     },
-    "homepage": "https://github.com/MondoPower/mondo-eslint-config#readme",
+    "homepage": "https://github.com/MondoPower/eslint-config-mondo#readme",
     "peerDependencies": {
       "eslint": ">= 5",
       "babel-eslint": ">= 10.0.1",

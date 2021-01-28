@@ -1,6 +1,6 @@
 {
     "name": "@mondopower/eslint-config-mondo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Common Eslint settings for the mondoubi project",
     "main": "index.js",
     "scripts": {

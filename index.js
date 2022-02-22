@@ -19,7 +19,7 @@ module.exports = {
         classes: true
       }
     },
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
     rules: {
       'operator-linebreak': ['error', 'after', { overrides: { '|>': 'before' } }],
       'arrow-spacing':  [ 'error', { before: true, after: true }],
